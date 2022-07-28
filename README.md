@@ -1,8 +1,15 @@
 안녕하세요!
 
-비전공자로써 개발자의 꿈을 가지고 느지막히 공부를 시작했습니다.
-<br><br>
-*Back-end* 개발자가 되는 것이 목표입니다.
+Back-end 개발자로 성장해가는 함세강의 git-hub페이지입니다.
 
-스스로 부끄럽지 않게 
-**어제보다 나은 사람**이 되려고 노력중입니다.
+---
+📚 My tech stack
+ <img src="https://img.shields.io/badge/html5-red?style=flat&logo=#E34F26&logoColor=white"/>
+
+
+<br>
+<br>
+#E34F26
+
+
+🌱
