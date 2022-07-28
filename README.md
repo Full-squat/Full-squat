@@ -3,7 +3,7 @@
 Back-end 개발자로 성장해가는 함세강의 git-hub페이지입니다.
 
 ---
-📚 My tech stack
+# 📚 My tech stack
 
 <img src="https://img.shields.io/badge/JAVA-blue?style=flat-square&amp;logo=Java&amp;logoColor=white"/> <img src="https://img.shields.io/badge/ORACLE-orangered?style=flat-square&amp;logo=ORACLE&amp;logoColor=white"/> <img src="https://img.shields.io/badge/PYTHON-navy?style=flat-square&amp;logo=Python&amp;logoColor=white"/>
 
